@@ -4,6 +4,10 @@
 
 - No third party analytics tools
 
+## Safari
+
+- No personal data collected
+
 ## DNS
 
 - No IP addresses collected
